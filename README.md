@@ -1,4 +1,4 @@
-(Peter Kwame)
+### Peter Kwame
 # Machine Learning
 Assignment on supervised and unsupervised machine learning 
 
@@ -10,12 +10,23 @@ This project introduces the fundamentals of supervised machine learning using Py
 
 The project focuses on Linear Regression, a supervised learning algorithm used to predict continuous numerical values based on input features.
 
-# Software Used
+### Software Used
 
-Python
+-Python
+-Scikit-learn
+-VS Code
+-Git and GitHub
 
-Scikit-learn
+### Initial Understandings
 
-VS Code
+Understand the basics of supervised learning.
 
-Git and GitHub
+Prepare and organise a dataset using Python.
+
+Import and use LinearRegression from Scikit-learn.
+
+Train a model using model.fit().
+
+Make predictions using model.predict().
+
+Understand how machine learning models learn patterns from data.
