@@ -8,25 +8,28 @@ Project Description:
 
 This project introduces the fundamentals of supervised machine learning using Python. It demonstrates how to prepare a dataset, train a machine learning model, and make predictions using labelled data.
 
-The project focuses on Linear Regression, a supervised learning algorithm used to predict continuous numerical values based on input features.
+The project focuses on linear regression, a supervised learning algorithm that predicts continuous numerical values based on input features.
 
 ### Software Used
 
 -Python
+
 -Scikit-learn
+
 -VS Code
+
 -Git and GitHub
 
-### Initial Understandings
+### Initial Understanding
 
-Understand the basics of supervised learning.
+1. Understand the basics of supervised learning.
 
-Prepare and organise a dataset using Python.
+2. Prepare and organise a dataset.
 
-Import and use LinearRegression from Scikit-learn.
+3. Import and use LinearRegression from Scikit-learn.
 
-Train a model using model.fit().
+4. Train a model using model.fit().
 
-Make predictions using model.predict().
+5. Make predictions using model.predict().
 
-Understand how machine learning models learn patterns from data.
+6. Understand how machine learning models learn patterns from data.
