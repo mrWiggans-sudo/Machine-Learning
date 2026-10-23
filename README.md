@@ -70,11 +70,13 @@ The project focuses on K-Means Clustering, an unsupervised learning algorithm th
 
 4. Create a K-Means model with **`n_clusters=3`**.
 
-5. Train the model on the customer dataset.
+5. Set **`random_state=42`** and **`n_init=10`**
 
-6. Display the cluster assigned to each customer.
+6. Train the model on the customer dataset.
 
-7. Count the total number of customers in each cluster.
+7. Display the cluster assigned to each customer.
+
+8. Count the total number of customers in each cluster.
 
 ### How to Run the Project
 
@@ -142,6 +144,10 @@ Run the following command:
 - **`fit`**: Trains the model.
 - **`predict`**: Uses the trained model to make predictions.
 ### Give two real-world applications of supervised learning and two of unsupervised learning.
- - **supervised learning:**
- 
-
+  ### supervised learning:
+ -  ***Weather forecasting:*** Weather data is labeled with the corresponding weather conditions
+     (e.g., "sunny", "rainy", "snowy").
+ - The model learns to predict future weather conditions based on current and historical data.
+ - ***Credit card fraud detection:*** Models automatically identify and flag transactions that are likely to be fraudulent, helping             financial institutions and credit card companies prevent or minimise losses due to fraudulent activities.
+   ### Unsupervised learning:
+ - ***Anomaly detection:*** It can be understood using toy datasets to identify unusual patterns, outliers, or irregularities,                 enhancing algorithm understanding and performance evaluation.
