@@ -127,23 +127,23 @@ Run the following command:
         python -c "import sklearn; print(sklearn.__version__)"
 # Theory Questions:
    
-### What is supervised machine learning?
+### 1. What is supervised machine learning?
   - It is a labelled dataset, that carries both input and output perimeters.
-### What is unsupervised machine learning?
+### 2. What is unsupervised machine learning?
   - Unsupervised Machine Learning is a type of machine learning where a computer learns patterns, structures, or relationships from data      without being provided with the correct answers in advance.
-### Explain the difference between supervised and unsupervised learning.
+### 3. Explain the difference between supervised and unsupervised learning.
 - The key difference is that supervised learning uses labelled data to learn how to predict outcomes, while unsupervised learning uses unlabelled data to discover hidden patterns and relationships.
 - **Supervised learning:** The model learns from examples with known answers to predict outcomes.
 - **Unsupervised learning:** The model discovers patterns and groups in data without known target labels.
-### Why is Linear Regression considered supervised learning?
+### 4. Why is Linear Regression considered supervised learning?
 - Linear Regression is considered Supervised Machine Learning because it learns from labelled data, where the correct data is already       known during training.
-### Why is K-Means considered unsupervised learning?
+### 5. Why is K-Means considered unsupervised learning?
 - K-Means is considered Unsupervised Machine Learning because it discovers groups of similar data points without being given predefined     correct answers or labels.
 - K-Means discovers groups by examining similarities in the data rather than learning from known customer categories.
-### What is the difference between fit() and predict()?
+### 6. What is the difference between fit() and predict()?
 - **`fit`**: Trains the model.
 - **`predict`**: Uses the trained model to make predictions.
-### Give two real-world applications of supervised learning and two of unsupervised learning.
+### 7. Give two real-world applications of supervised learning and two of unsupervised learning.
   ### supervised learning:
  -  ***Weather forecasting:*** Weather data is labeled with the corresponding weather conditions
      (e.g., "sunny", "rainy", "snowy").
