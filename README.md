@@ -1,5 +1,5 @@
 ### Peter Kwame
-# Machine Learnin
+# Machine Learning
 Assignment on supervised and unsupervised machine learning 
 
 # Supervised Machine Learning Project
